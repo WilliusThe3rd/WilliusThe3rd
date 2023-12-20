@@ -1,4 +1,4 @@
-SOC Analyst
+Security Analyst
 
 - 👋 Hi, I’m @WilliusThe3rd
 - 👀 I’m interested in Cybersecurity and Cloud
