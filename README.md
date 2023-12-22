@@ -2,7 +2,7 @@ Security Analyst
 
 - 👋 Hi, I’m Jerrell
 - 👀 I’m interested in Cybersecurity both offensive and defensive
-- 👩🏿‍💻 Learning more about the Cloud, focusing on Azure for the moement
+- 👩🏿‍💻 Learning more about the Cloud, focusing on Azure for the moment
 - 🤝🏽 I’m looking to collaborate on Cloud, Security, and General IT
 - 📫 How to reach me email me! jerrelljohnson38@gmail.com
 
